@@ -33,21 +33,33 @@
 
 .apresentacao__links {
     display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 32px;
     justify-content: space-between;
 }
 
+.apresentacao__links__subtitulo {
+    font-family: 'Krona One', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+}
+
 .apresentacao__links__link {
-    background-color: #06AED5;
+    display: flex;
+    justify-content: center;
+    gap: 16px;
     text-align: center;
-    border-radius: 16px;
+    border: 1px solid #06AED5;
+    border-radius: 8px;
     font-size: 24px;
     padding: 21.5px 0;
-    width: 280px;
+    width: 378px;
     text-decoration: none;
-    color: #232324;
+    color: #FDFFFC;
     font-family: 'Montserrat', sans-serif;
     font-weight: 600;
-    box-shadow: #03cefc 0px 50px 100px -20px, #06AED5 0px 30px 60px -30px;
+    box-shadow: #06AED5 0px 10px 30px;
     opacity: 1;
 }
 
