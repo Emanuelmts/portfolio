@@ -13,6 +13,6 @@ Olá, Bem vindo ao meu projeto de portfólio.
 
 ## Feito por:
 
-### Emanuel teixeira
+## Emanuel teixeira
 
 ### [Linkedin](https://www.linkedin.com/in/emanuelct/)
