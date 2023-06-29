@@ -1,7 +1,7 @@
 # Portfólio 
 Olá, Bem vindo ao meu projeto de portfólio.
 
-![Captura de tela 2023-06-03 112626](https://github.com/Emanuelmts/portfolio/assets/44686829/776ee2f9-4395-4e1a-93a5-c82a9e06844e)
+![Portfolio](https://github.com/Emanuelmts/portfolio/assets/44686829/429fb1f0-047b-4bb4-986a-61588fc9416f)
 
 ## Ferramentas utilizadas:
 
@@ -13,6 +13,6 @@ Olá, Bem vindo ao meu projeto de portfólio.
 
 ## Feito por:
 
-## Emanuel teixeira
+### Emanuel teixeira
 
 ### [Linkedin](https://www.linkedin.com/in/emanuelct/)
