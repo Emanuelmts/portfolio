@@ -5,11 +5,9 @@ Olá, Bem vindo ao meu projeto de portfólio.
 
 ## Ferramentas utilizadas:
 
-* HTML
-
-* CSS
-
-* Flex-box
+![Static Badge](https://img.shields.io/badge/HTML5-000000?logo=html5)
+![Static Badge](https://img.shields.io/badge/CSS3-000000?logo=css3)
+* Flexbox
 
 ## Feito por:
 
